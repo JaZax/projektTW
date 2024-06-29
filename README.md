@@ -1,9 +1,13 @@
-# used fixed api from here:
+## used fixed api from here:
 https://github.com/Shaking-Donut/fluffy-guide
 
-backend:
+## backend:
+```
 pip install -r requirements.txt
 fastapi dev main.py
+```
 
-frontend:
+## frontend:
+```
 npm run dev
+```
